@@ -1,0 +1,50 @@
+.head {
+    background-image: url("../img/b2.jpg");
+    background-size: cover;
+    color: white;
+    height: 40vh;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nnnn {
+    width: 150px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    white-space: nowrap;
+}
+
+table img {
+    width: 70px;
+}
+
+table td {
+
+    text-align: center;
+}
+
+
+
+table thead {
+    border: 1px solid #e2e9e1;
+    border-left: none;
+    border-right: none;
+}
+
+
+#cart {
+    overflow-x: auto;
+}
+
+.gg {
+    width: 60px;
+    font-size: 15px;
+    padding: 0 !important;
+    height: 30px;
+}

@@ -1,0 +1,70 @@
+.cc {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 15px;
+    cursor: pointer;
+}
+
+/* .container {
+    position: relative;
+} */
+
+.Color {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #aaa;
+    justify-content: start;
+    padding: 15px;
+    border-radius: 15px;
+    flex-direction: column;
+
+}
+
+
+
+.nn {
+    justify-content: space-between;
+}
+
+.bb {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+
+button {
+    width: 120px;
+    height: 50px;
+}
+
+.white {
+    background-color: white;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
+
+.btn {
+    margin: 5px;
+}
